@@ -27,11 +27,11 @@
 
 - Framework/Platform/Library: <code><img height="40" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"></code>
   <code><img height="40" src="https://github.com/pion/webrtc/raw/master/.github/pion-gopher-webrtc.png"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/1280px-Spring_Framework_Logo_2018.svg.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000"></code>
   <code><img height="40" src="https://img.icons8.com/?size=160&id=eETV3RNHVrWA&format=png"></code>
-  <code><img height="40" src="https://github.com/angular/angular/raw/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FFmpeg-Logo.svg/2560px-FFmpeg-Logo.svg.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/angularjs.png"></code>
+  <code><img height="40" src="https://img.icons8.com/?size=100&id=32418&format=png&color=000000"></code>
   <code><img height="40" src="https://img.icons8.com/color/48/000000/flutter.png"></code>
 
 
@@ -41,14 +41,14 @@
   <code><img height="40" src="https://seeklogo.com/images/O/onvif-logo-824E424E65-seeklogo.com.png"></code>
   <code><img height="40" src="https://seeklogo.com/images/U/ubuntu-logo-8B7C9ED4AD-seeklogo.com.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Xubuntu_logo.svg/1200px-Xubuntu_logo.svg.png"></code>
-  <code><img height="40" src="https://download.logo.wine/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.png"></code>
-  <code><img height="40" src="https://brandslogos.com/wp-content/uploads/thumbs/elastic-elasticsearch-logo-vector.svg"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/elasticsearch.png"></code>
   <code><img height="40" src="https://min.io/resources/img/logo/MINIO_Bird.png"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Zabbix_logo.svg/2560px-Zabbix_logo.svg.png"></code>
-  <code><img height="40" src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20Black%20on%20Transparent.png"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"></code>
-  <code><img height="40" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Logo.png"></code>
-  <code><img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/ansible-logo.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/redis.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/jenkins.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/docker.png"></code>
+  <code><img height="40" src="https://img.icons8.com/color/48/000000/ansible.png"></code>
 
 
 <!--
